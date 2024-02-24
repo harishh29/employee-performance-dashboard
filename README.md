@@ -1,7 +1,7 @@
 # employee-performance-dashboard
 Developed an Interactive Dashboard and analysed the primary reasons for poor employee performance.
 
-##Question 
+## Question 
 
 - Is the level of education accountable for employee attrition?
 - Which employee age group has the highest rate of attrition?
@@ -10,6 +10,6 @@ Developed an Interactive Dashboard and analysed the primary reasons for poor emp
 - Is a highly experienced employee accountable for resigning the organisation?
 - How does the percentage pay increase contribute significantly to the rise in employee attrition?
 
-##Dashboard
+## Dashboard
 
 ![employeedashboard](https://github.com/harishh29/employee-performance-dashboard/assets/76155776/10994605-a6bd-4cc6-9376-e2321d6cc27e)
